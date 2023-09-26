@@ -68,7 +68,9 @@
 ###
 
 <div align="center">
-   <img src="[https://streak-stats.demolab.com?user=AntoineElissa&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <div>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=AntoineElissa&locale=fr&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3)](https://git.io/streak-stats)
+  </div>
 </div>
 
 ###
