@@ -31,7 +31,7 @@
 
 ###
 
-> From automation to web development, my passion for technology has led me to a convergence of these two areas of expertise. My journey has shaped me in the art of integration and digital innovation, ready to contribute to the creation of tomorrow's solutions.
+> From industrial automation to web development, my passion for technology has led me to a convergence of these two areas of expertise. My journey has shaped me in the art of integration and digital innovation, ready to work on new solutions.
 
 ###
 
