@@ -26,6 +26,8 @@
 
 ###
 
+From automation to web development, my passion for technology has led me to a convergence of these two areas of expertise. My journey has shaped me in the art of integration and digital innovation, ready to contribute to the creation of tomorrow's solutions.
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
